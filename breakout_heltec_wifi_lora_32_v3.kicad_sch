@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Breakout Board for Heltec WiFi LoRa 32 V3")
-		(date "2025-05-26")
+		(date "2025-05-27")
 		(rev "v0.1.0")
 		(company "AgroTechLab (Laboratory for the Development of Agribusiness Technologies)")
 		(comment 1 "IFSC (Federal Institute of Santa Catarina)")
