@@ -1,3 +1,16 @@
+![GitHub Release](https://img.shields.io/github/v/release/agrotechlab-ifsc/breakout_heltec_wifi_lora_32)
+![GitHub Tag](https://img.shields.io/github/v/tag/AgroTechLab-IFSC/breakout_heltec_wifi_lora_32)
+![GitHub Platform](https://img.shields.io/badge/Platform-KiCad-blue)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/agrotechlab-ifsc/breakout_heltec_wifi_lora_32)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/agrotechlab-ifsc/breakout_heltec_wifi_lora_32)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/agrotechlab-ifsc/breakout_heltec_wifi_lora_32)
+![GitHub followers](https://img.shields.io/github/followers/agrotechlab-ifsc)
+![GitHub forks](https://img.shields.io/github/forks/agrotechlab-ifsc/breakout_heltec_wifi_lora_32)
+![GitHub Repo stars](https://img.shields.io/github/stars/agrotechlab-ifsc/breakout_heltec_wifi_lora_32)
+![GitHub watchers](https://img.shields.io/github/watchers/agrotechlab-ifsc/breakout_heltec_wifi_lora_32)
+![GitHub License](https://img.shields.io/github/license/agrotechlab-ifsc/breakout_heltec_wifi_lora_32)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/agrotechlab-ifsc/breakout_heltec_wifi_lora_32/total)
+
 # Breakout Board for Heltec WiFi Lora 32
 Breakout board for [Heltec WiFi LoRa 32](https://docs.heltec.org/en/node/esp32/wifi_lora_32/index.html):
  - [Heltec WiFi LoRa 32 V2 board](https://heltec.org/project/wifi-lora-32v2);
