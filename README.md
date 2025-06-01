@@ -1,5 +1,4 @@
 ![GitHub Release](https://img.shields.io/github/v/release/agrotechlab-ifsc/breakout_heltec_wifi_lora_32)
-![GitHub Tag](https://img.shields.io/github/v/tag/AgroTechLab-IFSC/breakout_heltec_wifi_lora_32)
 ![GitHub Platform](https://img.shields.io/badge/Platform-KiCad-blue)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/agrotechlab-ifsc/breakout_heltec_wifi_lora_32)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/agrotechlab-ifsc/breakout_heltec_wifi_lora_32)
