@@ -16,7 +16,7 @@ Breakout board for [Heltec WiFi LoRa 32](https://docs.heltec.org/en/node/esp32/w
  - [Heltec WiFi LoRa 32 V3 board](https://heltec.org/project/wifi-lora-32-v3);
 
 ## PCB Features
-The breakout PCB has a dimension of 100mm x 100mm and only 1 layer.
+The breakout PCB has a dimension of 100mm x 100mm and 2 layers.
 
 Project files:
  - [Schematic](./schematic.pdf)
